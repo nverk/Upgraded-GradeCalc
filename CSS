@@ -1,0 +1,19 @@
+h1 {
+	color: rgb(236, 151, 93);
+	font-size: 35px;
+}
+
+span.gradePerc {
+	font-size: 30px;
+	font-style: italic;
+  color: beige
+}
+
+body {
+	text-align: left;
+	background-color: rgba(126, 134, 134, 0.432);
+}
+
+input {
+	width: 50px
+}
