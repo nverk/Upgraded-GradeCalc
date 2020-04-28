@@ -53,7 +53,7 @@ function calculateGrade() {
 		console.log ("Nope")
 	}
 	if (final_Grade > 0 || final_Grade < 100){
-		console.log(final_Grade)
+		  document.getElementById("total_grade").innerHTML = final_Grade
 	}
 
 }
